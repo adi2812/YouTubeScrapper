@@ -3,7 +3,7 @@ import bs4 as bs
 import time
 
 #Starting the browser
-browser = webdriver.Chrome('/home/aditya/Desktop/chromedriver') #change the path to the location of your driver
+browser = webdriver.Chrome('chromedriver') #change the path to the location of your driver
 
 #Getting the source code
 browser.get("https://www.youtube.com/playlist?list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv") #link to your playist
