@@ -9,6 +9,7 @@ The code web scarpes data from a youtube playlist and returns 3 files:
 * Selenium 3.141.0
 * Beautiful soup (bs4) 4.9.3
 * Pandas 1.2.3
+* lxml
 
 #### You will have to download driver for your respective browser and save it in the same folder as your code https://sites.google.com/a/chromium.org/chromedriver/downloads (for Google-chrome).
 
