@@ -10,3 +10,5 @@ The code web scarpes data from a youtube playlist and returns 3 lists:
 * Beautiful soup (bs4) 4.9.3
 
 #### You will have to download driver for your respective browser and save it in the same folder as your code https://sites.google.com/a/chromium.org/chromedriver/downloads (for Google-chrome).
+
+### I did not use requests or urllib because it was not getting the proper html for the page.
