@@ -1,0 +1,61 @@
+name: Data Analytics with Python Url:https://www.youtube.com//watch?v=4SJ7bEILPJk&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=1 
+name: Lec 1, Introduction to Data Analytics Url:https://www.youtube.com//watch?v=YZf5q-ICf8Y&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=2 
+name: Lec 2,  Python Fundamentals -I Url:https://www.youtube.com//watch?v=HMAf_dSJujM&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=3 
+name: Lec 3, Python Fundamentals -II Url:https://www.youtube.com//watch?v=zcvetGj_FSY&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=4 
+name: Lec 4, Central Tendency and Dispersion - I Url:https://www.youtube.com//watch?v=1MiT06JFNo4&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=5 
+name: Lec 5, Central Tendency and Dispersion - II Url:https://www.youtube.com//watch?v=6lQn1hdG43o&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=6 
+name: Lec 6, Introduction to Probability-I Url:https://www.youtube.com//watch?v=yr7zgeJ_XTA&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=7 
+name: Lec 7,  Introduction to Probability-II Url:https://www.youtube.com//watch?v=oYRKXOsgPEM&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=8 
+name: Lec 8, Probability Distribution - I Url:https://www.youtube.com//watch?v=CU0XDuT3Qew&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=9 
+name: Lec 9, Probability Distribution - II Url:https://www.youtube.com//watch?v=xY-5a0YFuRs&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=10 
+name: Lec 10, Probability Distributions - III Url:https://www.youtube.com//watch?v=HRjNiUdKqmU&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=11 
+name: Lecture 11, Python Demo for Distribution Url:https://www.youtube.com//watch?v=7inQUia4r60&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=12 
+name: Lec 12, Sampling and Sampling Distribution Url:https://www.youtube.com//watch?v=L3wQw0wva3g&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=13 
+name: Lec 13, Distribution of Sample Means, population, and variance Url:https://www.youtube.com//watch?v=CMBGpE67PCU&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=14 
+name: Lec 14: Confidence interval estimation: Single population - I Url:https://www.youtube.com//watch?v=0HgUmKu3qm4&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=15 
+name: Lec 15, Confidence Interval Estimation: Single Population - II Url:https://www.youtube.com//watch?v=EboTIyWDuCo&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=16 
+name: Lec 16, Hypothesis Testing- I Url:https://www.youtube.com//watch?v=HL7TYnJGfMc&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=17 
+name: Lec 17, Hypothesis testing- II Url:https://www.youtube.com//watch?v=50VeateL4g0&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=18 
+name: Lec 18, Hypothesis Testing-III Url:https://www.youtube.com//watch?v=kqLhQr3_9N8&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=19 
+name: Lec 19, Errors in Hypothesis Testing Url:https://www.youtube.com//watch?v=F5g_CptP480&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=20 
+name: Lec 20, Hypothesis Testing about the Difference in Two Sample Means Url:https://www.youtube.com//watch?v=IVcN17X96qs&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=21 
+name: Lec 21, Hypothesis testing : Two sample test -II Url:https://www.youtube.com//watch?v=BtAGJf6m4tA&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=22 
+name: Lec 22, Hypothesis Testing: Two sample test - III Url:https://www.youtube.com//watch?v=m9_TFRk_BtE&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=23 
+name: Lec 23, ANOVA- I Url:https://www.youtube.com//watch?v=7lFLV2APQZk&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=24 
+name: Lec 24, ANOVA- II Url:https://www.youtube.com//watch?v=aB5kwF2HthU&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=25 
+name: Lec  25, Post Hoc Analysis(Tukey’s test) Url:https://www.youtube.com//watch?v=3C6Ge20LsTQ&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=26 
+name: Lec 26, Randomize block design (RBD) Url:https://www.youtube.com//watch?v=GznZ_2LZ5NM&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=27 
+name: Lec 27, Two Way ANOVA Url:https://www.youtube.com//watch?v=MBW6sdhnkic&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=28 
+name: Lec 28, Linear Regression - I Url:https://www.youtube.com//watch?v=eY55ocm-VgM&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=29 
+name: Lec 29, Linear Regression - II Url:https://www.youtube.com//watch?v=xXDoZLVjfbs&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=30 
+name: Lec 30, Linear Regression-III Url:https://www.youtube.com//watch?v=Hy9tOyk33D0&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=31 
+name: Lec 31, Estimation, Prediction of Regression Model Residual Analysis Url:https://www.youtube.com//watch?v=-CSrUNn59KE&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=32 
+name: Lec 32, Estimation, Prediction of Regression Model Residual Analysis - II Url:https://www.youtube.com//watch?v=EgKMySSCMNE&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=33 
+name: Lec 33, MULTIPLE REGRESSION MODEL - I Url:https://www.youtube.com//watch?v=rKgYaWyMOQY&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=34 
+name: Lec 34, MULTIPLE REGRESSION MODEL-II Url:https://www.youtube.com//watch?v=FT0-PYssiV4&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=35 
+name: Lec 35, Categorical variable regression Url:https://www.youtube.com//watch?v=1c9vwzaZHzI&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=36 
+name: Lec 36, Maximum Likelihood Estimation- I Url:https://www.youtube.com//watch?v=30ETB2MlV9c&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=37 
+name: Lec 37, Maximum Likelihood Estimation-II Url:https://www.youtube.com//watch?v=5XITCyYmDug&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=38 
+name: Lec 38, LOGISTIC REGRESSION- I Url:https://www.youtube.com//watch?v=uib733Oq6oc&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=39 
+name: Lec 39, LOGISTIC REGRESSION-II Url:https://www.youtube.com//watch?v=D7p5g8PMDvQ&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=40 
+name: Lec 40, Linear Regression Model Vs Logistic Regression Model Url:https://www.youtube.com//watch?v=R2uwjebnSZk&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=41 
+name: Lec 41, Confusion matrix and ROC- I Url:https://www.youtube.com//watch?v=0GC88_Rv-hY&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=42 
+name: Lec 42, Confusion Matrix and ROC-II Url:https://www.youtube.com//watch?v=ORb0BsDA5Fc&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=43 
+name: Lec 43, Performance of Logistic Model-III Url:https://www.youtube.com//watch?v=vIond1Mmx74&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=44 
+name: Lec 44, Regression Analysis Model Building - I Url:https://www.youtube.com//watch?v=3nO8opURG14&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=45 
+name: Lec 45, Regression Analysis Model Building (Interaction)- II Url:https://www.youtube.com//watch?v=uYJt5DYvHgg&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=46 
+name: Lec 46, Chi - Square Test of Independence - I Url:https://www.youtube.com//watch?v=gONcMW3XKPQ&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=47 
+name: Lec 47, Chi-Square Test of Independence - II Url:https://www.youtube.com//watch?v=yF_3ao7aP1w&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=48 
+name: Lec 48, Chi-Square Goodness of Fit Test Url:https://www.youtube.com//watch?v=5dVW9rPbjjc&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=49 
+name: Lec 49, Cluster analysis: Introduction- I Url:https://www.youtube.com//watch?v=Ob8gT2wmYZA&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=50 
+name: Lec 50, Clustering analysis: part II Url:https://www.youtube.com//watch?v=ULFVKARh6is&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=51 
+name: Lec 51, Clustering analysis: Part III Url:https://www.youtube.com//watch?v=edJuBmgpJhE&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=52 
+name: Lec 52, Cluster analysis: Part IV Url:https://www.youtube.com//watch?v=6y0xl9zHG00&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=53 
+name: Lec 53, Cluster analysis: Part V Url:https://www.youtube.com//watch?v=ivbMLWpOBY8&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=54 
+name: Lec 54, K- Means Clustering Url:https://www.youtube.com//watch?v=LAOZ5NdTRaM&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=55 
+name: Lec 55, Hierarchical method of clustering -I Url:https://www.youtube.com//watch?v=9XTqzJbTyog&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=56 
+name: Lec 56, Hierarchical method of clustering- II Url:https://www.youtube.com//watch?v=Gjjposb2aPQ&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=57 
+name: Lec 57, Classification and Regression Trees (CART : I) Url:https://www.youtube.com//watch?v=ClSX178aUZo&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=58 
+name: Lec 58, Measures of attribute selection Url:https://www.youtube.com//watch?v=yEBKbiadlRE&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=59 
+name: Lec 59, Attribute selection Measures in CART : II Url:https://www.youtube.com//watch?v=KqJ6-fIg8H8&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=60 
+name: Lec 60, Classification and Regression Trees (CART) - III Url:https://www.youtube.com//watch?v=P28drurC0KU&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=61 
