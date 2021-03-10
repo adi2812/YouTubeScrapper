@@ -6,10 +6,10 @@ from os import path
 import pandas as pd 
 
 #Starting the browser
-browser = webdriver.Chrome('/home/usr/Desktop/chromedriver') #change the path to the location of your driver
+browser = webdriver.Chrome('/home/Desktop/chromedriver') #change the path to the location of your driver
 
 #Getting the source code
-browser.get("https://www.youtube.com/playlist?list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv") #link to your playist
+browser.get("https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe") #link to your playist
 
 html_file = browser.page_source
 time.sleep(2)
@@ -38,14 +38,19 @@ anchor_tag = soup.find_all('a', class_="yt-simple-endpoint style-scope ytd-playl
 
 #print(anchor_tag)
 
-data_list = []
+"""data_list = []
 name_list = []
 url_list = []
 for i in range(len(anchor_tag)):
     data_list.append(anchor_tag[i].attrs['aria-label'])
     url_list.append("https://www.youtube.com/"+anchor_tag[i].attrs['href'])
-    name_list.append(anchor_tag[i].attrs['title'])
-    
+    name_list.append(anchor_tag[i].attrs['title'])"""
+
+data = pd.DataFrame({"Name":[],"Url":[]})
+
+for i in range(len(anchor_tag)):
+    data = data.append({'Url': "https://www.youtube.com"+anchor_tag[i].attrs['href'],'Name': anchor_tag[i].attrs['title']}, ignore_index=True)   
+
 
 #print(data_list)
 #print(name_list)
@@ -54,14 +59,14 @@ for i in range(len(anchor_tag)):
 #Writing the data in a text file
 if path.exists("data.txt"):
     f1 = open("data.txt",'w')
-    for i in range(len(data_list)):
-        f1.write("name: " + str(name_list[i]) + " Url:" + str(url_list[i]) + " \n")
+    for i in range(len(anchor_tag)):
+        f1.write("Name: " + str(anchor_tag[i].attrs['title']) + " Url:" + "https://www.youtube.com"+str(anchor_tag[i].attrs['href']) + " \n")
     f1.close
 else:
     f1 = open("data.txt",'x')
-    for i in range(len(data_list)):
-        f1.write("name: " + str(name_list[i]) + " Url:" + str(url_list[i]) + " \n")
+    for i in range(len(anchor_tag)):
+        f1.write("Name: " + str(anchor_tag[i].attrs['title']) + " Url:" +"https://www.youtube.com"+str(anchor_tag[i].attrs['href']) + " \n")
     f1.close
 
-df = pd.DataFrame(list(zip(name_list,url_list)), columns =['Name', 'Url'])
-df.to_csv("./data.csv")
+#df = pd.DataFrame(list(zip(name_list,url_list)), columns =['Name', 'Url'])
+data.to_csv("./data.csv")

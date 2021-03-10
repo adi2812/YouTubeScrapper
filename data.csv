@@ -1,62 +1,101 @@
 ,Name,Url
-0,Data Analytics with Python,https://www.youtube.com//watch?v=4SJ7bEILPJk&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=1
-1,"Lec 1, Introduction to Data Analytics",https://www.youtube.com//watch?v=YZf5q-ICf8Y&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=2
-2,"Lec 2,  Python Fundamentals -I",https://www.youtube.com//watch?v=HMAf_dSJujM&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=3
-3,"Lec 3, Python Fundamentals -II",https://www.youtube.com//watch?v=zcvetGj_FSY&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=4
-4,"Lec 4, Central Tendency and Dispersion - I",https://www.youtube.com//watch?v=1MiT06JFNo4&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=5
-5,"Lec 5, Central Tendency and Dispersion - II",https://www.youtube.com//watch?v=6lQn1hdG43o&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=6
-6,"Lec 6, Introduction to Probability-I",https://www.youtube.com//watch?v=yr7zgeJ_XTA&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=7
-7,"Lec 7,  Introduction to Probability-II",https://www.youtube.com//watch?v=oYRKXOsgPEM&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=8
-8,"Lec 8, Probability Distribution - I",https://www.youtube.com//watch?v=CU0XDuT3Qew&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=9
-9,"Lec 9, Probability Distribution - II",https://www.youtube.com//watch?v=xY-5a0YFuRs&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=10
-10,"Lec 10, Probability Distributions - III",https://www.youtube.com//watch?v=HRjNiUdKqmU&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=11
-11,"Lecture 11, Python Demo for Distribution",https://www.youtube.com//watch?v=7inQUia4r60&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=12
-12,"Lec 12, Sampling and Sampling Distribution",https://www.youtube.com//watch?v=L3wQw0wva3g&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=13
-13,"Lec 13, Distribution of Sample Means, population, and variance",https://www.youtube.com//watch?v=CMBGpE67PCU&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=14
-14,Lec 14: Confidence interval estimation: Single population - I,https://www.youtube.com//watch?v=0HgUmKu3qm4&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=15
-15,"Lec 15, Confidence Interval Estimation: Single Population - II",https://www.youtube.com//watch?v=EboTIyWDuCo&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=16
-16,"Lec 16, Hypothesis Testing- I",https://www.youtube.com//watch?v=HL7TYnJGfMc&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=17
-17,"Lec 17, Hypothesis testing- II",https://www.youtube.com//watch?v=50VeateL4g0&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=18
-18,"Lec 18, Hypothesis Testing-III",https://www.youtube.com//watch?v=kqLhQr3_9N8&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=19
-19,"Lec 19, Errors in Hypothesis Testing",https://www.youtube.com//watch?v=F5g_CptP480&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=20
-20,"Lec 20, Hypothesis Testing about the Difference in Two Sample Means",https://www.youtube.com//watch?v=IVcN17X96qs&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=21
-21,"Lec 21, Hypothesis testing : Two sample test -II",https://www.youtube.com//watch?v=BtAGJf6m4tA&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=22
-22,"Lec 22, Hypothesis Testing: Two sample test - III",https://www.youtube.com//watch?v=m9_TFRk_BtE&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=23
-23,"Lec 23, ANOVA- I",https://www.youtube.com//watch?v=7lFLV2APQZk&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=24
-24,"Lec 24, ANOVA- II",https://www.youtube.com//watch?v=aB5kwF2HthU&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=25
-25,"Lec  25, Post Hoc Analysis(Tukey’s test)",https://www.youtube.com//watch?v=3C6Ge20LsTQ&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=26
-26,"Lec 26, Randomize block design (RBD)",https://www.youtube.com//watch?v=GznZ_2LZ5NM&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=27
-27,"Lec 27, Two Way ANOVA",https://www.youtube.com//watch?v=MBW6sdhnkic&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=28
-28,"Lec 28, Linear Regression - I",https://www.youtube.com//watch?v=eY55ocm-VgM&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=29
-29,"Lec 29, Linear Regression - II",https://www.youtube.com//watch?v=xXDoZLVjfbs&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=30
-30,"Lec 30, Linear Regression-III",https://www.youtube.com//watch?v=Hy9tOyk33D0&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=31
-31,"Lec 31, Estimation, Prediction of Regression Model Residual Analysis",https://www.youtube.com//watch?v=-CSrUNn59KE&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=32
-32,"Lec 32, Estimation, Prediction of Regression Model Residual Analysis - II",https://www.youtube.com//watch?v=EgKMySSCMNE&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=33
-33,"Lec 33, MULTIPLE REGRESSION MODEL - I",https://www.youtube.com//watch?v=rKgYaWyMOQY&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=34
-34,"Lec 34, MULTIPLE REGRESSION MODEL-II",https://www.youtube.com//watch?v=FT0-PYssiV4&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=35
-35,"Lec 35, Categorical variable regression",https://www.youtube.com//watch?v=1c9vwzaZHzI&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=36
-36,"Lec 36, Maximum Likelihood Estimation- I",https://www.youtube.com//watch?v=30ETB2MlV9c&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=37
-37,"Lec 37, Maximum Likelihood Estimation-II",https://www.youtube.com//watch?v=5XITCyYmDug&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=38
-38,"Lec 38, LOGISTIC REGRESSION- I",https://www.youtube.com//watch?v=uib733Oq6oc&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=39
-39,"Lec 39, LOGISTIC REGRESSION-II",https://www.youtube.com//watch?v=D7p5g8PMDvQ&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=40
-40,"Lec 40, Linear Regression Model Vs Logistic Regression Model",https://www.youtube.com//watch?v=R2uwjebnSZk&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=41
-41,"Lec 41, Confusion matrix and ROC- I",https://www.youtube.com//watch?v=0GC88_Rv-hY&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=42
-42,"Lec 42, Confusion Matrix and ROC-II",https://www.youtube.com//watch?v=ORb0BsDA5Fc&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=43
-43,"Lec 43, Performance of Logistic Model-III",https://www.youtube.com//watch?v=vIond1Mmx74&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=44
-44,"Lec 44, Regression Analysis Model Building - I",https://www.youtube.com//watch?v=3nO8opURG14&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=45
-45,"Lec 45, Regression Analysis Model Building (Interaction)- II",https://www.youtube.com//watch?v=uYJt5DYvHgg&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=46
-46,"Lec 46, Chi - Square Test of Independence - I",https://www.youtube.com//watch?v=gONcMW3XKPQ&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=47
-47,"Lec 47, Chi-Square Test of Independence - II",https://www.youtube.com//watch?v=yF_3ao7aP1w&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=48
-48,"Lec 48, Chi-Square Goodness of Fit Test",https://www.youtube.com//watch?v=5dVW9rPbjjc&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=49
-49,"Lec 49, Cluster analysis: Introduction- I",https://www.youtube.com//watch?v=Ob8gT2wmYZA&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=50
-50,"Lec 50, Clustering analysis: part II",https://www.youtube.com//watch?v=ULFVKARh6is&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=51
-51,"Lec 51, Clustering analysis: Part III",https://www.youtube.com//watch?v=edJuBmgpJhE&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=52
-52,"Lec 52, Cluster analysis: Part IV",https://www.youtube.com//watch?v=6y0xl9zHG00&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=53
-53,"Lec 53, Cluster analysis: Part V",https://www.youtube.com//watch?v=ivbMLWpOBY8&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=54
-54,"Lec 54, K- Means Clustering",https://www.youtube.com//watch?v=LAOZ5NdTRaM&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=55
-55,"Lec 55, Hierarchical method of clustering -I",https://www.youtube.com//watch?v=9XTqzJbTyog&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=56
-56,"Lec 56, Hierarchical method of clustering- II",https://www.youtube.com//watch?v=Gjjposb2aPQ&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=57
-57,"Lec 57, Classification and Regression Trees (CART : I)",https://www.youtube.com//watch?v=ClSX178aUZo&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=58
-58,"Lec 58, Measures of attribute selection",https://www.youtube.com//watch?v=yEBKbiadlRE&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=59
-59,"Lec 59, Attribute selection Measures in CART : II",https://www.youtube.com//watch?v=KqJ6-fIg8H8&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=60
-60,"Lec 60, Classification and Regression Trees (CART) - III",https://www.youtube.com//watch?v=P28drurC0KU&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=61
+0,Complete Road Map To Be Expert In Python- Follow My Way,https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=1
+1,Complete Roadmap To Follow To  Prepare Machine Learning With All Videos And Materials,https://www.youtube.com/watch?v=VOpETRQGXy0&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=2
+2,Tutorial 1- Anaconda Installation and Python Basics,https://www.youtube.com/watch?v=7S865QCGL74&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=3
+3,Why Python is the Best Programming Language For Machine Learning?,https://www.youtube.com/watch?v=JSJJ-qOOAXI&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=4
+4,Tutorial 2 - Python List  and Boolean Variables,https://www.youtube.com/watch?v=GA0u6WM7_Eo&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=5
+5,"Tutorial 3- Python Sets, Dictionaries and Tuples",https://www.youtube.com/watch?v=wlS_fWxIPyQ&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=6
+6,Tutorial 4 - Numpy and Inbuilt Functions Tutorial,https://www.youtube.com/watch?v=vh525RjO6C0&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=7
+7,"Tutorial 5- Pandas, Data Frame and Data Series Part-1",https://www.youtube.com/watch?v=QUClKFFn1Vk&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=8
+8,"Tutorial 6- Pandas,Reading CSV files With Various Parameters- Part 2",https://www.youtube.com/watch?v=tW1BWtQRZ2M&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=9
+9,"Tutorial 7- Pandas-Reading JSON,Reading HTML, Read PICKLE, Read EXCEL Files- Part 3",https://www.youtube.com/watch?v=xx4Vkc5RrWY&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=10
+10,Tutorial 8- Matplotlib (Simple Visualization Library),https://www.youtube.com/watch?v=czQO1_GEEos&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=11
+11,"Tutorial 9- Seaborn Tutorial- Distplot, Joinplot, Pairplot  Part 1",https://www.youtube.com/watch?v=UsglokDLa2o&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=12
+12,"Tutorial 10- Seaborn- Countplot(), Violinplot(), Boxplot()- Part2",https://www.youtube.com/watch?v=XezfbWlEVwE&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=13
+13,How To Become Expertise in Exploratory Data Analysis,https://www.youtube.com/watch?v=dP170R-wO-8&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=14
+14,Tutorial 11-Exploratory Data Analysis(EDA) of Titanic dataset,https://www.youtube.com/watch?v=Ea_KAcdv1vs&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=15
+15,"Tutorial 12- Python Functions, Positional and Keywords Arguments",https://www.youtube.com/watch?v=Vah_RQrlM_k&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=16
+16,Tutorial 13- Python Lambda Functions,https://www.youtube.com/watch?v=NNlrQp5de98&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=17
+17,Tutorial 15- Map Functions using Python,https://www.youtube.com/watch?v=j1lTvjmOJbQ&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=18
+18,Tutorial 16- Filter Functions In Python,https://www.youtube.com/watch?v=VrHcTFAkkak&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=19
+19,Tutorial 17- Python List Comprehension,https://www.youtube.com/watch?v=iiDDZtzvMC8&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=20
+20,Tutorial 18- Python Advanced String Formatting,https://www.youtube.com/watch?v=9LtA-YbmGOg&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=21
+21,Tutorial 19-  Python Iterables vs Iterators,https://www.youtube.com/watch?v=t5iO4LzVeLU&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=22
+22,Tutorial 20- How To Import All Important Python Data Science Libraries Using Pyforest,https://www.youtube.com/watch?v=ubtIYcx4_Gw&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=23
+23,"Tutorial 21- Python OOPS Tutorial- Classes, Variables, Methods and Objects",https://www.youtube.com/watch?v=P4zmS8zm2m4&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=24
+24,Advanced Python- Exception Handling Detailed Explanation In Python,https://www.youtube.com/watch?v=06HauGzxc9s&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=25
+25,Advanced Python Series- Custom Exception Handling In Python,https://www.youtube.com/watch?v=UXV_o2W_UUA&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=26
+26,Advance Python Series- Public Private And Protected Access Modifiers,https://www.youtube.com/watch?v=_yaGV-u18qI&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=27
+27,Advance Python Series- Inheritance In Python,https://www.youtube.com/watch?v=FA3ODPdBW10&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=28
+28,"Tutorial 22-Univariate, Bivariate and Multivariate Analysis- Part1 (EDA)-Data Science",https://www.youtube.com/watch?v=JG8GRlMjp3c&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=29
+29,"Tutorial 23-Univariate, Bivariate and Multivariate Analysis- Part2 (EDA)-Data Science",https://www.youtube.com/watch?v=IkvwXPEBlNo&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=30
+30,Tutorial 24- Histogram in EDA- Data Science,https://www.youtube.com/watch?v=ZdgCZ0GY-HU&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=31
+31,Tutorial 24-Z Score Statistics Data Science,https://www.youtube.com/watch?v=4Fta6KQ1QHQ&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=32
+32,Tutorial 25- Probability Density function and CDF- EDA-Data Science,https://www.youtube.com/watch?v=PYIjkw0HN1Q&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=33
+33,Tutorial 26- Linear Regression Indepth Maths Intuition- Data Science,https://www.youtube.com/watch?v=1-OGRohmH2s&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=34
+34,Tutorial 27- Ridge and Lasso Regression Indepth Intuition- Data Science,https://www.youtube.com/watch?v=9lRv01HDU0s&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=35
+35,Tutorial 28- Ridge and Lasso Regression using Python and Sklearn,https://www.youtube.com/watch?v=0yI0-r3Ly40&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=36
+36,Multiple Linear Regression using python and sklearn,https://www.youtube.com/watch?v=5rvnlZWzox8&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=37
+37,Tutorial 28-MultiCollinearity In Linear Regression- Part 2,https://www.youtube.com/watch?v=NAPhUDjgG_s&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=38
+38,Machine Learning-Bias And Variance In Depth Intuition| Overfitting Underfitting,https://www.youtube.com/watch?v=BqzgUnrNhFM&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=39
+39,Tutorial 29-R square and Adjusted R square Clearly Explained| Machine Learning,https://www.youtube.com/watch?v=WuuyD3Yr-js&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=40
+40,"Tutorial 31- Hypothesis Test, Type 1 Error, Type 2 Error",https://www.youtube.com/watch?v=Y3QzLIBp64M&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=41
+41,"Tutorial 32- All About P Value,T test,Chi Square Test, Anova Test  and When  to Use What?",https://www.youtube.com/watch?v=YrhlQB3mQFI&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=42
+42,"Tutorial 33- P Value,T test, Correlation Implementation with Python- Hypothesis Testing",https://www.youtube.com/watch?v=4-rxTA_5_xA&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=43
+43,Tutorial 33- Chi Square Test Implementation with Python- Hypothesis Testing- Part 2,https://www.youtube.com/watch?v=w5iKu1IrTJQ&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=44
+44,Tutorial 34- Performance Metrics For Classification Problem In Machine Learning- Part1,https://www.youtube.com/watch?v=aWAnNHXIKww&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=45
+45,Tutorial 35- Logistic Regression Indepth Intuition- Part 1| Data Science,https://www.youtube.com/watch?v=L_xBe7MbPwk&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=46
+46,Tutorial 36- Logistic Regression Indepth Intuition- Part 2| Data Science,https://www.youtube.com/watch?v=uFfsSgQgerw&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=47
+47,Tutorial 36- Logistic Regression Mutliclass Classification(OneVsRest)- Part 3| Data Science,https://www.youtube.com/watch?v=V8fS0T_ktn4&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=48
+48,Tutorial 37: Entropy In Decision Tree Intuition,https://www.youtube.com/watch?v=1IQOtJ4NI_0&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=49
+49,Tutorial 38- Decision Tree Information Gain,https://www.youtube.com/watch?v=FuTRucXB9rA&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=50
+50,Tutorial 39- Gini Impurity Intuition In Depth In Decision Tree,https://www.youtube.com/watch?v=5aIFgrrTqOw&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=51
+51,Tutorial 40- Decision Tree Split For Numerical Feature,https://www.youtube.com/watch?v=5O8HvA9pMew&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=52
+52,Advance House Price Prediction- Exploratory Data Analysis- Part 1,https://www.youtube.com/watch?v=ioN1jcWxbv8&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=53
+53,Advance House Price Prediction- Exploratory Data Analysis- Part 2,https://www.youtube.com/watch?v=wR4Xfwjr-3Y&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=54
+54,Advance House Price Prediction-Feature Engineering Part 1,https://www.youtube.com/watch?v=VgZZP8rAS-c&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=55
+55,Advance House Price Prediction-Feature Engineering Part 2,https://www.youtube.com/watch?v=0fT-bqvHD2w&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=56
+56,Advance House Price Prediction-Feature Selection,https://www.youtube.com/watch?v=1JXrxCJoHuw&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=57
+57,"Tutorial 41-Performance Metrics(ROC,AUC Curve) For Classification Problem In Machine Learning Part 2",https://www.youtube.com/watch?v=A_ZKMsZ3f3o&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=58
+58,Performance Metrics On MultiClass Classification Problems,https://www.youtube.com/watch?v=tYZ6cpatw-w&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=59
+59,K Nearest Neighbor classification with Intuition and practical solution,https://www.youtube.com/watch?v=otolSnbanQk&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=60
+60,K Nearest Neighbour Easily Explained with Implementation,https://www.youtube.com/watch?v=wTF6vzS9fy4&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=61
+61,Tutorial 42 - Ensemble: What is Bagging (Bootstrap Aggregation)?,https://www.youtube.com/watch?v=KIOeZ5cFZ50&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=62
+62,Tutorial 43-Random Forest Classifier and Regressor,https://www.youtube.com/watch?v=nxFG5xdpDto&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=63
+63,Tutorial 45-Handling imbalanced Dataset  using python- Part 1,https://www.youtube.com/watch?v=YMPMZmlH5Bo&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=64
+64,Tutorial 46-Handling imbalanced Dataset using python- Part 2,https://www.youtube.com/watch?v=OJedgzdipC0&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=65
+65,Hyperparameter Optimization for Xgboost,https://www.youtube.com/watch?v=9HomdnM12o4&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=66
+66,What is AdaBoost (BOOSTING TECHNIQUES),https://www.youtube.com/watch?v=NLRO1-jp5F8&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=67
+67,Visibility Climate Prediction- You Can Add This In Your Resume,https://www.youtube.com/watch?v=oqz6BX6xHtU&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=68
+68,Euclidean Distance and Manhattan Distance,https://www.youtube.com/watch?v=p3HbBlcXDTE&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=69
+69,K Means Clustering Intuition,https://www.youtube.com/watch?v=AWKCCK5YHsE&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=70
+70,Hierarchical Clustering intuition,https://www.youtube.com/watch?v=0jPGHniVVNc&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=71
+71,DBSCAN Clustering Easily Explained with Implementation,https://www.youtube.com/watch?v=C3r7tGRe2eI&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=72
+72,Silhouette (clustering)- Validating Clustering Models- Unsupervised Machine Learning,https://www.youtube.com/watch?v=DpRPd274-0E&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=73
+73,Curse of Dimensionality Easily explained| Machine Learning,https://www.youtube.com/watch?v=_4DaqzLyT08&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=74
+74,Dimensional Reduction| Principal Component Analysis,https://www.youtube.com/watch?v=OFyyWcw2cyM&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=75
+75,Principle Component Analysis (PCA) using sklearn and python,https://www.youtube.com/watch?v=QdBy02ExhGI&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=76
+76,What is Cross Validation and its types?,https://www.youtube.com/watch?v=7062skdX05Y&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=77
+77,Tutorial 42-How To Find Optimal Threshold For Binary Classification - Data Science,https://www.youtube.com/watch?v=_AjhdXuXEDE&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=78
+78,Tutorial 47- Bayes' Theorem| Conditional Probability- Machine Learning,https://www.youtube.com/watch?v=71oNiqPoKD8&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=79
+79,Tutorial 48- Naive Bayes' Classifier Indepth Intuition-  Machine Learning,https://www.youtube.com/watch?v=jS1CKhALUBQ&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=80
+80,Tutorial 49- How To Apply Naive Bayes' Classifier On Text Data (NLP)- Machine Learning,https://www.youtube.com/watch?v=temQ8mHpe3k&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=81
+81,Support Vector Machine (SVM) Basic Intuition- Part 1| Machine Learning,https://www.youtube.com/watch?v=H9yACitf-KM&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=82
+82,Maths Intuition Behind Support Vector Machine Part 2 | Machine Learning Data Science,https://www.youtube.com/watch?v=Js3GLb1xPhc&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=83
+83,SVM Kernels In-depth Intuition- Polynomial Kernels Part 3 | Machine Learning Data Science,https://www.youtube.com/watch?v=8bFKyb77vp0&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=84
+84,Gradient Boosting In Depth Intuition- Part 1 Machine Learning,https://www.youtube.com/watch?v=Nol1hVtLOSg&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=85
+85,Gradient Boosting Complete Maths Indepth Intuiton Explained| Machine Learning- Part2,https://www.youtube.com/watch?v=Oo9q6YtGzvc&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=86
+86,Xgboost Classification Indepth Maths Intuition- Machine Learning Algorithms🔥🔥🔥🔥,https://www.youtube.com/watch?v=gPciUPwWJQQ&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=87
+87,Xgboost Regression In-Depth Intuition Explained- Machine Learning Algorithms 🔥🔥🔥🔥,https://www.youtube.com/watch?v=w-_vmVfpssg&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=88
+88,Data Science In Medical-Live Tracking Of CO--VID Cases In India using Python,https://www.youtube.com/watch?v=SGlU53rg6rE&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=89
+89,Perform EDA In Seconds With Visualization Using SweetViz Library,https://www.youtube.com/watch?v=D4fHn4lHCmI&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=90
+90,4 End To End Projects Till Deployment For Beginners In Data Science| All You Have To Do Is Learn,https://www.youtube.com/watch?v=sg2zLIor6QU&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=91
+91,Deploy Machine Learning Models Using StreamLit Library- Data Science,https://www.youtube.com/watch?v=5XnHlluw-Eo&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=92
+92,Perform Exploratory Data Analysis In Minutes- Data Science| Machine Learning,https://www.youtube.com/watch?v=AYalukmWroY&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=93
+93,Pandas Visual Analysis- Perform Exploratory Data Analysis In A Single Line Of Code🔥🔥🔥🔥,https://www.youtube.com/watch?v=hLDDt_XUeMA&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=94
+94,How To Read And Process Huge Datasets in Seconds Using Vaex Library| Data Science| Machine Learning,https://www.youtube.com/watch?v=myM5nkM_mYg&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=95
+95,D-Tale The Best Library To Perform Exploratory Data Analysis Using Single Line Of Code🔥🔥🔥🔥,https://www.youtube.com/watch?v=xSXGcuiEzUc&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=96
+96,Interview Prep Day3-How To Prepare Support Vector Machines Important Questions In Interviews🔥🔥,https://www.youtube.com/watch?v=eYRBWM9Mvuc&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=97
+97,"Google Datasets Search Engine- Search All Datasets From One Place For Data Science,Machine Learning",https://www.youtube.com/watch?v=mWQjx_lbWjg&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=98
+98,How To Run Flask In Google Colab,https://www.youtube.com/watch?v=h6skw_h7Wg8&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=99
+99,Time Series Forecasting Using Facebook FbProphet,https://www.youtube.com/watch?v=VtItg-J6-CI&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=100
